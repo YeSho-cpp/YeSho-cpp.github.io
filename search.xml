@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>test 博客</title>
+      <link href="/2024/04/30/test/"/>
+      <url>/2024/04/30/test/</url>
+      
+        <content type="html"><![CDATA[<p>你们好</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一起写webserver 项目(五)</title>
       <link href="/2024/04/30/%E4%B8%80%E8%B5%B7%E5%86%99webserver%20%E9%A1%B9%E7%9B%AE(%E4%BA%94)%20/"/>
       <url>/2024/04/30/%E4%B8%80%E8%B5%B7%E5%86%99webserver%20%E9%A1%B9%E7%9B%AE(%E4%BA%94)%20/</url>
